@@ -2,7 +2,7 @@ https://github.com/AbstractMachinesLab/tree-sitter-erlang fab680273af1a8f5cc0c3a
 https://github.com/Azganoth/tree-sitter-lua 6b02dfd7f07f36c223270e97eb0adf84e15a4cef
 https://github.com/Wilfred/tree-sitter-elisp 4b0e4a3891337514126ec72c7af394c0ff2cf48c
 https://github.com/alemuller/tree-sitter-make a4b9187417d6be349ee5fd4b6e77b4172c6827dd
-https://github.com/camdencheek/tree-sitter-dockerfile 25c71d6a24cdba8f0c74ef40d4d2d93defd7e196
+https://github.com/camdencheek/tree-sitter-dockerfile c0a9d694d9bf8ab79a919f5f9c7bc9c169caf321
 https://github.com/camdencheek/tree-sitter-go-mod 4a65743dbc2bb3094114dd2b43da03c820aa5234
 https://github.com/dhcmrlchtdj/tree-sitter-sqlite 993be0a91c0c90b0cc7799e6ff65922390e2cefe
 https://github.com/elixir-lang/tree-sitter-elixir 05e3631c6a0701c1fa518b0fee7be95a2ceef5e2
