@@ -44,7 +44,7 @@ compiled_languages = {'bash': {'file-types': ['sh', 'bash', 'zsh'], 'scope': 'so
  'jsdoc': {'injection-regex': 'jsdoc', 'scope': 'text.jsdoc'},
  'json': {'file-types': ['json'], 'scope': 'source.json'},
  'julia': {'file-types': ['jl'], 'scope': 'source.julia'},
- 'kotlin': {},
+ 'kotlin': {'file-types': ['kt', 'kts'], 'scope': 'source.kotlin'},
  'lua': {'file-types': ['lua'], 'scope': 'source.lua'},
  'make': {'file-types': ['makefile',
                          'Makefile',

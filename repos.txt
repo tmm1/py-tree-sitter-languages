@@ -7,7 +7,7 @@ https://github.com/camdencheek/tree-sitter-go-mod 4a65743dbc2bb3094114dd2b43da03
 https://github.com/dhcmrlchtdj/tree-sitter-sqlite 993be0a91c0c90b0cc7799e6ff65922390e2cefe
 https://github.com/elixir-lang/tree-sitter-elixir 05e3631c6a0701c1fa518b0fee7be95a2ceef5e2
 https://github.com/elm-tooling/tree-sitter-elm 0aecfbf69f0c9bcdfada0f6f2c5398235c23949f
-https://github.com/fwcd/tree-sitter-kotlin a4f71eb9b8c9b19ded3e0e9470be4b1b77c2b569
+https://github.com/fwcd/tree-sitter-kotlin 06a2f6e71c7fcac34addcbf2a4667adad1b9c5a7
 https://github.com/ganezdragon/tree-sitter-perl ff5c3108083af6fcb7575e32a7558b8165a05bcd
 https://github.com/ikatyang/tree-sitter-markdown 8b8b77af0493e26d378135a3e7f5ae25b555b375
 https://github.com/ikatyang/tree-sitter-yaml 0e36bed171768908f331ff7dff9d956bae016efb
